@@ -1,0 +1,15 @@
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/bin/Debug/net7.0/FindArmstrongNumber
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/bin/Debug/net7.0/FindArmstrongNumber.deps.json
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/bin/Debug/net7.0/FindArmstrongNumber.runtimeconfig.json
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/bin/Debug/net7.0/FindArmstrongNumber.dll
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/bin/Debug/net7.0/FindArmstrongNumber.pdb
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/obj/Debug/net7.0/FindArmstrongNumber.csproj.AssemblyReference.cache
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/obj/Debug/net7.0/FindArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/obj/Debug/net7.0/FindArmstrongNumber.AssemblyInfoInputs.cache
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/obj/Debug/net7.0/FindArmstrongNumber.AssemblyInfo.cs
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/obj/Debug/net7.0/FindArmstrongNumber.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/obj/Debug/net7.0/FindArmstrongNumber.dll
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/obj/Debug/net7.0/refint/FindArmstrongNumber.dll
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/obj/Debug/net7.0/FindArmstrongNumber.pdb
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/obj/Debug/net7.0/FindArmstrongNumber.genruntimeconfig.cache
+/Users/nida/Projects/TobetoExercises/FindArmstrongNumber/obj/Debug/net7.0/ref/FindArmstrongNumber.dll

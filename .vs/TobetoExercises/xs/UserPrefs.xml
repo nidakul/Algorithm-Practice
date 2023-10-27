@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{AD121276-AA63-42DA-9BEC-B23F3AA06811}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FindArmstrongNumber FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

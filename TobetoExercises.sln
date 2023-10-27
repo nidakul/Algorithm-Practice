@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindArmstrongNumber", "FindArmstrongNumber\FindArmstrongNumber.csproj", "{AD121276-AA63-42DA-9BEC-B23F3AA06811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD121276-AA63-42DA-9BEC-B23F3AA06811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD121276-AA63-42DA-9BEC-B23F3AA06811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD121276-AA63-42DA-9BEC-B23F3AA06811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD121276-AA63-42DA-9BEC-B23F3AA06811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07EEEA7A-3D9B-444F-847B-1EA8AD5949DB}
+	EndGlobalSection
+EndGlobal
