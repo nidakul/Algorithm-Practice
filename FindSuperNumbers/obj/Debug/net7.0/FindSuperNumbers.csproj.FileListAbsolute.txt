@@ -1,0 +1,15 @@
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/bin/Debug/net7.0/FindSuperNumbers
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/bin/Debug/net7.0/FindSuperNumbers.deps.json
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/bin/Debug/net7.0/FindSuperNumbers.runtimeconfig.json
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/bin/Debug/net7.0/FindSuperNumbers.dll
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/bin/Debug/net7.0/FindSuperNumbers.pdb
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/obj/Debug/net7.0/FindSuperNumbers.csproj.AssemblyReference.cache
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/obj/Debug/net7.0/FindSuperNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/obj/Debug/net7.0/FindSuperNumbers.AssemblyInfoInputs.cache
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/obj/Debug/net7.0/FindSuperNumbers.AssemblyInfo.cs
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/obj/Debug/net7.0/FindSuperNumbers.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/obj/Debug/net7.0/FindSuperNumbers.dll
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/obj/Debug/net7.0/refint/FindSuperNumbers.dll
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/obj/Debug/net7.0/FindSuperNumbers.pdb
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/obj/Debug/net7.0/FindSuperNumbers.genruntimeconfig.cache
+/Users/nida/Projects/TobetoExercises/FindSuperNumbers/obj/Debug/net7.0/ref/FindSuperNumbers.dll
