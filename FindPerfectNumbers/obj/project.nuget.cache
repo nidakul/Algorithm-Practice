@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NEjf68qmEIoYZofU1889OYUz0jPRjlaVgp2cxWAN+pp4spVVRp348CUsMb7gkbYxZjeTJdDjdAN3j0rVT5A7dQ==",
+  "dgSpecHash": "jL7uzh59Iw4uQFp7YNTpoEhxqjnQQNRm3zcERQuYPwA1laDfAHSyJxB2mTaPmYLaFIytR+GzjJxVQA1OXaoBQA==",
   "success": true,
-  "projectFilePath": "/Users/nida/Projects/TobetoExercises/FindSuperNumbers/FindPerfectNumbers.csproj",
+  "projectFilePath": "/Users/nida/Projects/TobetoExercises/FindPerfectNumbers/FindPerfectNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

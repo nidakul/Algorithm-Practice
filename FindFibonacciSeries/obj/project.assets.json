@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nida/Projects/TobetoExercises/FindPerfectNumbers/FindPerfectNumbers.csproj",
-      "projectName": "FindPerfectNumbers",
-      "projectPath": "/Users/nida/Projects/TobetoExercises/FindPerfectNumbers/FindPerfectNumbers.csproj",
+      "projectUniqueName": "/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/FindFibonacciSeries.csproj",
+      "projectName": "FindFibonacciSeries",
+      "projectPath": "/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/FindFibonacciSeries.csproj",
       "packagesPath": "/Users/nida/.nuget/packages/",
-      "outputPath": "/Users/nida/Projects/TobetoExercises/FindPerfectNumbers/obj/",
+      "outputPath": "/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nida/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FindFibonacciSeries/1.0.0": {
+        "runtime": {
+          "FindFibonacciSeries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindFibonacciSeries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

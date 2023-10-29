@@ -1,0 +1,15 @@
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/bin/Debug/net7.0/FindFibonacciSeries
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/bin/Debug/net7.0/FindFibonacciSeries.deps.json
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/bin/Debug/net7.0/FindFibonacciSeries.runtimeconfig.json
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/bin/Debug/net7.0/FindFibonacciSeries.dll
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/bin/Debug/net7.0/FindFibonacciSeries.pdb
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/obj/Debug/net7.0/FindFibonacciSeries.csproj.AssemblyReference.cache
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/obj/Debug/net7.0/FindFibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/obj/Debug/net7.0/FindFibonacciSeries.AssemblyInfoInputs.cache
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/obj/Debug/net7.0/FindFibonacciSeries.AssemblyInfo.cs
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/obj/Debug/net7.0/FindFibonacciSeries.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/obj/Debug/net7.0/FindFibonacciSeries.dll
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/obj/Debug/net7.0/refint/FindFibonacciSeries.dll
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/obj/Debug/net7.0/FindFibonacciSeries.pdb
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/obj/Debug/net7.0/FindFibonacciSeries.genruntimeconfig.cache
+/Users/nida/Projects/TobetoExercises/FindFibonacciSeries/obj/Debug/net7.0/ref/FindFibonacciSeries.dll
