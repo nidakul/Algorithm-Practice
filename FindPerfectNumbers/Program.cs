@@ -1,4 +1,4 @@
-﻿//süper sayı: sayının bölenlerini topla kendisi hariç bölenlerin toplamı sayının kendisine eşit olmalı.
+﻿//perfect sayı: sayının bölenlerini topla kendisi hariç bölenlerin toplamı sayının kendisine eşit olmalı.
 //28 sayısı bölenleri: 1,2,4,7,14,28 --> 1+2+4+7+14 = 28
 //2 ile 1000 arasındaki süper sayıları listeleyen programı bul.
 
@@ -19,12 +19,3 @@ for (int number = 1; number < 1000; number++)
         Console.WriteLine(number);
     }
 }
-
-
-
-
-
-
-
-
-

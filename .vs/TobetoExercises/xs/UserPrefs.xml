@@ -1,11 +1,5 @@
-﻿<Properties StartupConfiguration="{8C6F240A-01F7-47E7-9D36-1536F80F14C7}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.FindPerfectNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FindArmstrongNumber/Program.cs">
-    <Files>
-      <File FileName="FindArmstrongNumber/Program.cs" Line="15" Column="2" />
-    </Files>
+﻿<Properties StartupConfiguration="{AD121276-AA63-42DA-9BEC-B23F3AA06811}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__" />
@@ -13,6 +7,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.FindArmstrongNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FindPerfectNumbers FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.FindArmstrongNumber PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
