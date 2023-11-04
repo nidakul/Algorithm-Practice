@@ -1,0 +1,15 @@
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/bin/Debug/net7.0/CountCharacterNumber
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/bin/Debug/net7.0/CountCharacterNumber.deps.json
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/bin/Debug/net7.0/CountCharacterNumber.runtimeconfig.json
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/bin/Debug/net7.0/CountCharacterNumber.dll
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/bin/Debug/net7.0/CountCharacterNumber.pdb
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/obj/Debug/net7.0/CountCharacterNumber.csproj.AssemblyReference.cache
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/obj/Debug/net7.0/CountCharacterNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/obj/Debug/net7.0/CountCharacterNumber.AssemblyInfoInputs.cache
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/obj/Debug/net7.0/CountCharacterNumber.AssemblyInfo.cs
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/obj/Debug/net7.0/CountCharacterNumber.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/obj/Debug/net7.0/CountCharacterNumber.dll
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/obj/Debug/net7.0/refint/CountCharacterNumber.dll
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/obj/Debug/net7.0/CountCharacterNumber.pdb
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/obj/Debug/net7.0/CountCharacterNumber.genruntimeconfig.cache
+/Users/nida/Projects/TobetoExercises/CountCharacterNumber/obj/Debug/net7.0/ref/CountCharacterNumber.dll

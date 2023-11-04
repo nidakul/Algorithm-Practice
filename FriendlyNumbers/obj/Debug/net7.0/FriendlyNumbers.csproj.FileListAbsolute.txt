@@ -1,0 +1,15 @@
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/bin/Debug/net7.0/FriendlyNumbers
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/bin/Debug/net7.0/FriendlyNumbers.deps.json
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/bin/Debug/net7.0/FriendlyNumbers.runtimeconfig.json
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/bin/Debug/net7.0/FriendlyNumbers.dll
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/bin/Debug/net7.0/FriendlyNumbers.pdb
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/obj/Debug/net7.0/FriendlyNumbers.csproj.AssemblyReference.cache
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/obj/Debug/net7.0/FriendlyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/obj/Debug/net7.0/FriendlyNumbers.AssemblyInfoInputs.cache
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/obj/Debug/net7.0/FriendlyNumbers.AssemblyInfo.cs
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/obj/Debug/net7.0/FriendlyNumbers.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/obj/Debug/net7.0/FriendlyNumbers.dll
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/obj/Debug/net7.0/refint/FriendlyNumbers.dll
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/obj/Debug/net7.0/FriendlyNumbers.pdb
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/obj/Debug/net7.0/FriendlyNumbers.genruntimeconfig.cache
+/Users/nida/Projects/TobetoExercises/FriendlyNumbers/obj/Debug/net7.0/ref/FriendlyNumbers.dll

@@ -1,19 +1,29 @@
 ﻿<Properties StartupConfiguration="{E0D4483A-F911-4CF2-B473-5B08368EB192}|Default">
-  <MonoDevelop.Ide.ItemProperties.FindFibonacciSeries FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FriendlyNumbers FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FindArmstrongNumber PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FindPerfectNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FindFibonacciSeries PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="FindPerfectNumbers/Program.cs">
     <Files>
-      <File FileName="FindPerfectNumbers/Program.cs" Line="16" Column="6" />
+      <File FileName="FindFibonacciSeries/Program.cs" />
+      <File FileName="CountCharacterNumber/Program.cs" Line="22" Column="1" />
+      <File FileName="FindPerfectNumbers/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="TobetoExercises" expanded="True">
+            <Node name="FindPerfectNumbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.FindArmstrongNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CountCharacterNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
