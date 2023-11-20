@@ -1,29 +1,33 @@
-﻿<Properties StartupConfiguration="{E0D4483A-F911-4CF2-B473-5B08368EB192}|Default">
-  <MonoDevelop.Ide.ItemProperties.FriendlyNumbers FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.FindArmstrongNumber PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.FindPerfectNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
+﻿<Properties StartupConfiguration="{7E6DD4AF-CE30-4BB0-B234-B90BE0F48F2B}|Default">
   <MonoDevelop.Ide.ItemProperties.FindFibonacciSeries PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FindPerfectNumbers/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.deneme PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FriendlyNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FindArmstrongNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CountCharacterNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FriendlyNumbers/Program.cs">
     <Files>
-      <File FileName="FindFibonacciSeries/Program.cs" />
       <File FileName="CountCharacterNumber/Program.cs" Line="22" Column="1" />
-      <File FileName="FindPerfectNumbers/Program.cs" Line="1" Column="1" />
+      <File FileName="FriendlyNumbers/Program.cs" Line="20" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TobetoExercises" expanded="True">
-            <Node name="FindPerfectNumbers" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="TobetoExercises">
+            <Node name="CountCharacterNumber" expanded="True" />
+            <Node name="FindArmstrongNumber" expanded="True" />
+            <Node name="FindFibonacciSeries" expanded="True" />
+            <Node name="FindPerfectNumbers" expanded="True" />
+            <Node name="FriendlyNumbers" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.CountCharacterNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.FindPerfectNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FindFactorial FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FindAge FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

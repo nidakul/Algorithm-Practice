@@ -1,0 +1,15 @@
+/Users/nida/Projects/TobetoExercises/deneme/bin/Debug/net7.0/deneme
+/Users/nida/Projects/TobetoExercises/deneme/bin/Debug/net7.0/deneme.deps.json
+/Users/nida/Projects/TobetoExercises/deneme/bin/Debug/net7.0/deneme.runtimeconfig.json
+/Users/nida/Projects/TobetoExercises/deneme/bin/Debug/net7.0/deneme.dll
+/Users/nida/Projects/TobetoExercises/deneme/bin/Debug/net7.0/deneme.pdb
+/Users/nida/Projects/TobetoExercises/deneme/obj/Debug/net7.0/deneme.csproj.AssemblyReference.cache
+/Users/nida/Projects/TobetoExercises/deneme/obj/Debug/net7.0/deneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/TobetoExercises/deneme/obj/Debug/net7.0/deneme.AssemblyInfoInputs.cache
+/Users/nida/Projects/TobetoExercises/deneme/obj/Debug/net7.0/deneme.AssemblyInfo.cs
+/Users/nida/Projects/TobetoExercises/deneme/obj/Debug/net7.0/deneme.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/TobetoExercises/deneme/obj/Debug/net7.0/deneme.dll
+/Users/nida/Projects/TobetoExercises/deneme/obj/Debug/net7.0/refint/deneme.dll
+/Users/nida/Projects/TobetoExercises/deneme/obj/Debug/net7.0/deneme.pdb
+/Users/nida/Projects/TobetoExercises/deneme/obj/Debug/net7.0/deneme.genruntimeconfig.cache
+/Users/nida/Projects/TobetoExercises/deneme/obj/Debug/net7.0/ref/deneme.dll
